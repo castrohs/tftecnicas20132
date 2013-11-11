@@ -9,5 +9,5 @@ package negocio;
  * @author 08200177
  */
 public class Operador {
-  public emitirSegundaVia(){}
+  public void emitirSegundaVia(){}
 }
